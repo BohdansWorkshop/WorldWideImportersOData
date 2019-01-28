@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d17b3d75fdc4433c802b12c87bf90adc" Name="Diagram1" ZoomLevel="84">
+        <EntityTypeShape EntityType="WideWorldImportersModel.Customer" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="WideWorldImportersModel.Order" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Customers_BillToCustomerID_Sales_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_CustomerID_Sales_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="WideWorldImportersModel.FK_Sales_Orders_BackorderOrderID_Sales_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

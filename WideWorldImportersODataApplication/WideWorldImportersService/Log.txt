@@ -1,0 +1,14 @@
+2017-10-07 23:05:04.2343|WARN|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Failed headers validation for Application: 
+2017-10-07 23:05:09.8484|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:05:10.3370|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Customers from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
+2017-10-07 23:05:14.0283|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:05:14.0403|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Orders from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
+2017-10-07 23:05:23.0496|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:05:23.0496|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Orders from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
+2017-10-07 23:05:47.6058|WARN|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Failed headers validation for Application: 
+2017-10-07 23:05:55.7784|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:05:56.2620|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Customers from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
+2017-10-07 23:06:13.3105|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:06:13.3225|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Orders from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
+2017-10-07 23:06:22.2822|INFO|WideWorldImportersService.Authentication.CustomAuthenticationProvider|Succeeded credentials validation for user: Administrator
+2017-10-07 23:06:22.2822|INFO|WideWorldImportersService.WWIDataService|Request to dbo.Orders from Application:WideWorldImportersService.Authentication.CustomPrincipal, User:Administrator
